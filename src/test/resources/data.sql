@@ -1,0 +1,1 @@
+INSERT INTO tasks (user, task, due_date) VALUES ('Zó', 'Testar API', '2020-05-20');
